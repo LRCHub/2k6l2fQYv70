@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "バラライカ",
+  "base_artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "createdAt": "2025-12-04T12:15:33.268244Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バラライカ",
+      "artist": "月島きらり starring 久住小春(モーニング娘。)",
+      "has_synced": false,
+      "path": "select/01_バラライカ_月島きらり_starring_久住小春(モーニング娘。).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バラライカ (きらりん☆レボリューション)",
+      "artist": "Yumiko",
+      "has_synced": false,
+      "path": "select/02_バラライカ_(きらりん☆レボリューション)_Yumiko.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "バラライカ (第27話〜51話 OP)",
+      "artist": "Yumiko",
+      "has_synced": true,
+      "path": "select/03_バラライカ_(第27話〜51話_OP)_Yumiko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "バラライカ",
+      "artist": "久住小春",
+      "has_synced": false,
+      "path": "select/04_バラライカ_久住小春.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バラライカ",
+      "artist": "月島きらり starring 久住小春 (モーニング娘。)",
+      "has_synced": false,
+      "path": "select/pl_01_バラライカ_月島きらり_starring_久住小春_(モーニング娘。).txt"
+    }
+  ]
+}
